@@ -2,5 +2,5 @@
 Learning Python
 
 
-Operators and Numbers in Python and fun and important. 
+Operators and Numbers in Python are fun and important. 
 Keep things simple and practice. 
